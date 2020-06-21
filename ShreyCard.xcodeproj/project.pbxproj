@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3530315224A00F1800D8AD2D /* AngelaCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AngelaCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3530315224A00F1800D8AD2D /* ShreyCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShreyCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3530315524A00F1800D8AD2D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3530315724A00F1800D8AD2D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		3530315924A00F1800D8AD2D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		3530315324A00F1800D8AD2D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3530315224A00F1800D8AD2D /* AngelaCard.app */,
+				3530315224A00F1800D8AD2D /* ShreyCard.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -92,9 +92,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3530315124A00F1800D8AD2D /* AngelaCard */ = {
+		3530315124A00F1800D8AD2D /* ShreyCard */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3530316624A00F1A00D8AD2D /* Build configuration list for PBXNativeTarget "AngelaCard" */;
+			buildConfigurationList = 3530316624A00F1A00D8AD2D /* Build configuration list for PBXNativeTarget "ShreyCard" */;
 			buildPhases = (
 				3530314E24A00F1800D8AD2D /* Sources */,
 				3530314F24A00F1800D8AD2D /* Frameworks */,
@@ -104,9 +104,9 @@
 			);
 			dependencies = (
 			);
-			name = AngelaCard;
+			name = ShreyCard;
 			productName = AngelaCard;
-			productReference = 3530315224A00F1800D8AD2D /* AngelaCard.app */;
+			productReference = 3530315224A00F1800D8AD2D /* ShreyCard.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -124,7 +124,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3530314D24A00F1800D8AD2D /* Build configuration list for PBXProject "AngelaCard" */;
+			buildConfigurationList = 3530314D24A00F1800D8AD2D /* Build configuration list for PBXProject "ShreyCard" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -137,7 +137,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3530315124A00F1800D8AD2D /* AngelaCard */,
+				3530315124A00F1800D8AD2D /* ShreyCard */,
 			);
 		};
 /* End PBXProject section */
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.shrey.AngelaCard;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ShreyCard;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -330,7 +330,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.shrey.AngelaCard;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ShreyCard;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -339,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3530314D24A00F1800D8AD2D /* Build configuration list for PBXProject "AngelaCard" */ = {
+		3530314D24A00F1800D8AD2D /* Build configuration list for PBXProject "ShreyCard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3530316424A00F1A00D8AD2D /* Debug */,
@@ -348,7 +348,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3530316624A00F1A00D8AD2D /* Build configuration list for PBXNativeTarget "AngelaCard" */ = {
+		3530316624A00F1A00D8AD2D /* Build configuration list for PBXNativeTarget "ShreyCard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3530316724A00F1A00D8AD2D /* Debug */,

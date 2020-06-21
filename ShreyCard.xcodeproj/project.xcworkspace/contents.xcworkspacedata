@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AngelaCard.xcodeproj">
+      location = "self:/Users/shrey/Documents/iOS Development/AngelaCard/ShreyCard.xcodeproj">
    </FileRef>
 </Workspace>
